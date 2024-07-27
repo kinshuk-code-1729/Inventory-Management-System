@@ -1,0 +1,18 @@
+
+™python:S1192«"UDefine a constant instead of duplicating this literal "Successful Response" 10 times.( Øë²úÿÿÿÿJ$14df363e-1382-4c7f-8726-a6badc6366a3
+python:S107A"MMethod "__init__" has 36 parameters, which is greater than the 13 authorized.(öûáÜúÿÿÿÿJ$5d366598-5ee6-4e0d-913a-0f6e8c0c3c66
+spython:S1135í"4Complete the task associated to this "TODO" comment.(¢š•³J$cc06836b-94e8-465d-8d32-dca0c7d11818
+spython:S930Ù"0Remove this unexpected named argument 'summary'.(áÚ¶ùÿÿÿÿJ$45aeca3a-ec24-498a-893b-28a0bf5e7825
+tpython:S930ß"1Remove this unexpected named argument 'webhooks'.(â™ÅñüÿÿÿÿJ$4bc7e339-2a2a-43f1-9a0d-9c34e9066174
+‰python:S930â"FRemove this unexpected named argument 'separate_input_output_schemas'.(‰µ°ıÿÿÿÿJ$57b1b10a-7e57-4255-bf8c-88383c7a023d
+˜python:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(³ÃœÃıÿÿÿÿJ$2da23024-02ef-4e85-9817-2ce3597467d7
+•python:S107¡"RMethod "add_api_route" has 24 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$ec640f73-aecc-462b-9f97-d030452c3dbd
+‘python:S107Ü"NMethod "api_route" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$00f4d76c-7d92-4182-898e-b24953c96553
+‹python:S107µ"HMethod "get" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$4adf9468-f54a-4ec9-bb80-23d5c4ec4a63
+‹python:S107ª"HMethod "put" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$7628562f-6a1d-4abc-aa09-e807f8987534
+Œpython:S107¤"IMethod "post" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$e5bda2f9-4a0d-4956-a148-92e5b8ec6a2c
+python:S107"KMethod "delete" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$6247ac0f-1dc3-44b1-a0a6-97afb547bad9
+python:S107“"LMethod "options" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$66e46dbc-1ff7-4b83-aeb7-a9f0de7d3745
+Œpython:S107ˆ"IMethod "head" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$761fbc52-3350-4f57-9c21-f81d5aa802fb
+python:S107ı"JMethod "patch" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$d6ecaadf-a39a-45f9-a736-c835b274a1ef
+python:S107÷"JMethod "trace" has 23 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$e479e2dd-9ed7-4f00-b686-7d091154dec7
