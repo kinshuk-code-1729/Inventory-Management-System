@@ -1,0 +1,62 @@
+.custom-navbar {
+  height: 50px;
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .badge {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.custom-navbar .form-control,
+.custom-navbar .btn {
+  height: calc(50px - 1rem);
+}
+
+.custom-add-product-btn {
+  width: 120px;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.custom-badge {
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.custom-form {
+  flex-wrap: nowrap;
+}
+
+.custom-form-control {
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  .custom-navbar {
+    height: auto;
+  }
+
+  .custom-navbar .navbar-brand,
+  .custom-navbar .badge,
+  .custom-navbar .btn,
+  .custom-navbar .form-control {
+    height: auto;
+    padding: 0.5rem;
+  }
+
+  .custom-form {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .custom-form-control,
+  .custom-add-product-btn {
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
+
+  .custom-add-product-btn {
+    text-align: center;
+  }
+}
