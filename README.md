@@ -24,7 +24,3 @@ A comprehensive inventory management system designed to track and manage invento
 ## Contributing:
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
-
-## License:
-
-[Insert license information, e.g., MIT License]
